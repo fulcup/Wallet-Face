@@ -7,4 +7,6 @@ This is new step in world web 3.0, this is wallet face. We preview a new concept
 Требуется смартфон с операционной системой на базе линукс и желательно чтобы это была OC Ubuntu touch, она создана специально под наши горячо любимые смартфоны.
 Back-end and Front-end site... mmm or rather Wallet Face, nash face.
 
+Всех кого данная технлогия оставляет неравнодошным, прошу писать на телеграм https://t.me/fulcup
+
 Интернет всё ближе в нам
