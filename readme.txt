@@ -9,4 +9,6 @@ Back-end and Front-end site... mmm or rather Wallet Face, nash face.
 
 Всех кого данная технлогия оставляет неравнодошным, прошу писать на телеграм https://t.me/fulcup
 
+группа нашего комьюнити: https://t.me/+OkyKh6pB8GQ4MjY6
+
 Интернет всё ближе в нам
